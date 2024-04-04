@@ -1,12 +1,13 @@
 
 
-![](https://web.archive.org/web/20091027033052im_/http://www.geocities.com/hackerz_16/Hocks.gif)  Welcome To Robs Github ![](https://web.archive.org/web/20091027033052im_/http://www.geocities.com/hackerz_16/Hocks.gif)
+# ![](https://web.archive.org/web/20091027033052im_/http://www.geocities.com/hackerz_16/Hocks.gif)  welcome to my github ![](https://web.archive.org/web/20091027033052im_/http://www.geocities.com/hackerz_16/Hocks.gif)
 
 
 > Those babys used to autoplay. Man this place has gone downhill
 
+![](https://web.archive.org/web/20091027033052im_/http://www.geocities.com/hackerz_16/Hock.gif)
 
-# Rob is a software person
+# rob is a software person
 
 
 ### Visual Approximation: 
@@ -72,22 +73,7 @@
 ![](https://web.archive.org/web/20090804113154/http://geocities.com/SunsetStrip/Lounge/7650/dollarspindownd.gif)
 ![](https://web.archive.org/web/20090804113154/http://geocities.com/SunsetStrip/Lounge/7650/dollarspindownd.gif)
 
-This is mostly nonsense I was excited about at 2 AM then abandoned.
-
-...
-
-...
-
-...
-
-...
-
-Dont judge me.
-
-I feel like you're judging me.
+## GIVE ME MONEY OR I WILL HAK YOU
 
 
-
-
-Visitor: 
-![Visitor Count](https://profile-counter.glitch.me/melroser/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/melroser/count.svg) > many people have seen this shit
