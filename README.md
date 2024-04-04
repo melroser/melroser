@@ -7,8 +7,9 @@
 
 ![](https://web.archive.org/web/20091027033052im_/http://www.geocities.com/hackerz_16/Hock.gif)
 
-# rob is a software person
+![](https://web.archive.org/web/20090902131109/http://geocities.com/suguprogrammer/discolight.gif)
 
+# rob is a software person
 
 ### Visual Approximation: 
                                                                                                     
