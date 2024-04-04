@@ -1,10 +1,8 @@
 
-![](https://web.archive.org/web/20090804113154/http://geocities.com/SunsetStrip/Lounge/7650/dollarspindownd.gif)
 
+![](https://web.archive.org/web/20091027033052im_/http://www.geocities.com/hackerz_16/Hocks.gif) Welcome ![](https://web.archive.org/web/20091027033052im_/http://www.geocities.com/hackerz_16/Hocks.gif)
 
 Rob is a software person
-
-
 
 
 Visual Approximation: 
@@ -61,8 +59,8 @@ Visual Approximation:
 
 
 
-My Github is like my workbench.
-
+![](https://web.archive.org/web/20090804113154/http://geocities.com/SunsetStrip/Lounge/7650/dollarspindownd.gif)
+![](https://web.archive.org/web/20090804113154/http://geocities.com/SunsetStrip/Lounge/7650/dollarspindownd.gif)
 
 This is mostly nonsense I was excited about at 2 AM then abandoned.
 
