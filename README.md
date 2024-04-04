@@ -1,6 +1,5 @@
-
-
-[![Visitor Count](https://profile-counter.glitch.me/melroser/count.svg)]
+Welcome Visitor: 
+![Visitor Count](https://profile-counter.glitch.me/melroser/count.svg)
 
 
 Github is my workbench.
