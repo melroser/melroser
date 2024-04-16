@@ -1,10 +1,5 @@
 # rob is a software person
 
-*Electronic Music Intensifies
-
-![](https://web.archive.org/web/20090902131109/http://geocities.com/suguprogrammer/discolight.gif)
-
-
 
 
 
@@ -79,6 +74,13 @@
                        @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@                           
                        @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@                          
                       @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@                           
+
+
+*Electronic Music Intensifies
+
+![](https://web.archive.org/web/20090902131109/http://geocities.com/suguprogrammer/discolight.gif)
+
+
 
 
 
