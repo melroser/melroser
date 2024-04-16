@@ -96,4 +96,4 @@
 ## GIVE ME MONEY OR I WILL HAK YOU
 
 
-![Visitor Count](https://profile-counter.glitch.me/melroser/count.svg) this many people have seen this shit
+![Visitor Count](https://profile-counter.glitch.me/melroser/count.svg) many people have seen this shit
