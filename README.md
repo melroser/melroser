@@ -97,3 +97,11 @@
 
 
 ![Visitor Count](https://profile-counter.glitch.me/melroser/count.svg) many people have seen this shit
+
+
+
+<p align="center">
+  <a href="https://gist.github.com/traumverloren/<HASH>">
+    <img src="https://picsum.photos/200/200" alt="Click here to sign my guestbook!">
+  </a>
+</p>
