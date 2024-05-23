@@ -101,7 +101,7 @@
 
 
 <p align="center">
-  <a href="https://gist.github.com/traumverloren/<HASH>">
+  <a href="https://gist.github.com/melroser">
     <img src="https://picsum.photos/200/200" alt="Click here to sign my guestbook!">
   </a>
 </p>
