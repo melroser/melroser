@@ -6,7 +6,7 @@
 ### ![](https://web.archive.org/web/20091027033052im_/http://www.geocities.com/hackerz_16/Hocks.gif)  welcome to my github ![](https://web.archive.org/web/20091027033052im_/http://www.geocities.com/hackerz_16/Hocks.gif)
 
 
-> Those babys used to autoplay. Man this place has gone downhill
+> Those baby's used to autoplay. This place used to be a proper website...
 
 ![](https://web.archive.org/web/20091027033052im_/http://www.geocities.com/hackerz_16/Hock.gif)
 
