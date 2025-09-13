@@ -97,6 +97,7 @@
 
 
 ![Visitor Count](https://profile-counter.glitch.me/melroser/count.svg) many people have seen this shit
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=username.repository)
 
 
 
