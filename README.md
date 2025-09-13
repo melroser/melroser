@@ -95,9 +95,7 @@
 
 ## GIVE ME MONEY OR I WILL HAK YOU
 
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=username.repository) many people have seen this shit
-
-and so far 0 have payed... I am not ammused.
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=username.repository) and so far 0 have payed... I am not ammused.
 
 
 #Sign My Guestbook!
