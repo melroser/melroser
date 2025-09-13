@@ -100,7 +100,7 @@
 
 ## Sign My Guestbook!
 <p align="center">
-  <a href="https://gist.github.com/melroser">
+  <a href="https://gist.github.com/melroser/3d4e8b6db40cf1dd3e81e419cd603118">
     <img src="https://gist.githubusercontent.com/melroser/3d4e8b6db40cf1dd3e81e419cd603118/raw/007a339f02ef7dac14a238aa9156e78b239cc586/guestbook.gif" alt="Click here to sign my guestbook!">
   </a>
 </p>
